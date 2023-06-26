@@ -5,6 +5,6 @@
 ![Регистрация](https://github.com/Madge-Timofeeva/api/blob/main/img/Authentication.png)
 
 ПОЛУЧЕНИЕ ЮЗЕРА ПО ТОКЕНУ
-![Регистрация](https://github.com/Madge-Timofeeva/api/blob/main/img/Registration.png)
+![Регистрация](https://github.com/Madge-Timofeeva/api/blob/main/img/expected.png)
 
 
